@@ -1,0 +1,22 @@
+.css1{
+    background-color:yellow;
+    font-size:25px;
+    font-family:georgia;
+    font-style:italic;
+    font-waight:bold;
+    color:purple;
+    text-shadow: 2px 2px 8px #FF0000;
+}
+.css2{
+    background-color:blue;
+    font-size:25px;
+    font-family:georgia;
+    font-style:italic;
+    font-waight:bold;
+    color:purple;
+    text-shadow: 2px 2px 8px #FF0000;
+    text-align:center;
+}
+*{
+    background-color:lightgrey;
+}
